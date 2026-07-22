@@ -26,4 +26,4 @@ jobs:
           app-name: 'cippx7zsb'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD3BB6D3A3FE4230BE8B83909E62A175 }}
+          publish-profile: ${{ secrets.AZURE_STATIC_WEB_APPS_MANGO_MOSS_061da3110 }}
